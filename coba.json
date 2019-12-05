@@ -1,0 +1,29 @@
+[{
+        "nama": "Muhammad",
+        "umur": 17,
+        "nrp": "23040",
+        "lulus": true,
+        "hobi": [
+            "koding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "sadifg",
+            "pembimbing2": "sadifgsdf"
+        }
+    },
+    {
+        "nama": "Muhammad",
+        "umur": 17,
+        "nrp": "23040",
+        "lulus": true,
+        "hobi": [
+            "koding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "sadifg",
+            "pembimbing2": "sadifgsdf"
+        }
+    }
+]
